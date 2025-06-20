@@ -2,7 +2,7 @@
 
 Submitted by: Shruti Senthilram
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that is essentially wordle.
 
 Time spent: 2 hours spent in total
 
